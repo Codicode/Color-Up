@@ -1,4 +1,4 @@
-=== jQuery Color-Up ===
+jQuery Color-Up
 ========
 
 Image Color-Up jQuery Plugin
